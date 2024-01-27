@@ -42,6 +42,13 @@ The queries have been structured to showcase skills in various SQL techniques, i
 2. Copy and paste individual queries into your SQL environment to execute them.
 3. Explore the data and insights derived from each query to gain a comprehensive understanding of the Covid-19 dataset.
 
+## 📊Visualization   
+I designed a dashboard using Tableau to convey various COVID-19 narratives through visualizations.
+[Dashboard link](https://public.tableau.com/app/profile/giftson.osborne.affum/viz/CoronavirusDataViz/Dashboard1)
+
+<img width="698" alt="CoronaVirus" src="https://github.com/ask-Osborne/Covid-19_Data_Exploration/assets/154265439/bdf48efa-4d1c-4641-bed7-fb209ef57f06">
+
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements, feedback, or encounter any issues, feel free to create a pull request or open an issue to initiate discussions.
