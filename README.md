@@ -46,6 +46,8 @@ The queries have been structured to showcase skills in various SQL techniques, i
 I designed a dashboard using Tableau to convey various COVID-19 narratives through visualizations.
 [Dashboard link](https://public.tableau.com/app/profile/giftson.osborne.affum/viz/CoronavirusDataViz/Dashboard1)
 
+[Link 2](https://www.novypro.com/project/coronavirus-data-viz)
+
 <img width="698" alt="CoronaVirus" src="https://github.com/ask-Osborne/Covid-19_Data_Exploration/assets/154265439/bdf48efa-4d1c-4641-bed7-fb209ef57f06">
 
 
