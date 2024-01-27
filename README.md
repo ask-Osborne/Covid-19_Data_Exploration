@@ -3,6 +3,12 @@
 ## Overview
 
 This project involves exploring and analyzing Covid-19 data using SQL queries. The dataset encompasses various aspects of the pandemic, including total cases, deaths, vaccinations, and population statistics. The queries provided offer insights into the impact of the virus on different regions.
+## Data Sources
+
+The analysis is based on two datasets:
+- **CovidDeaths**: Contains information about COVID-19 deaths, including location, date, total cases, new cases, total deaths, and population.
+- **CovidVaccinations**: Provides data on new vaccinations, allowing for an exploration of vaccination rates in different locations.
+
 ## Questions Answered
 
 1. **Total Cases vs Total Deaths:**
